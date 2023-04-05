@@ -1,9 +1,9 @@
 import streamlit as st
 import pandas as pd
 from sklearn import datasets
-st.title('Nayana: website')
+st.title('Wine prediction')
 st.write('''
-Simple iris flower prediction app
+Simple wine color  prediction app
 ''')
 
 st.sidebar.header('User input parameters')
