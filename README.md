@@ -1,5 +1,7 @@
 # Wine Quality Prediction 
-![image](https://github.com/nayana142/Wine_prediction/assets/120770261/27f2cdae-76b1-46fd-ae5c-1f996f61c32b)
+
+![image](https://github.com/nayana142/Wine_prediction/assets/120770261/0f7ad535-f55c-4e6b-9287-bc691961a9a8)
+
 ## Introduction
  Welcome to the Wine Quality Prediction application powered by Streamlit! This application utilizes machine learning techniques
  to predict the quality of wine based on various features. Users can input the characteristics of a wine sample, and the application
